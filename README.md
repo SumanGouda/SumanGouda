@@ -45,7 +45,7 @@ I believe in learning by building and getting better step by step.
 
 ## 📫 Connect With Me
 - GitHub: You’re already here 😉  
-- LinkedIn: 
+- LinkedIn: *https://www.linkedin.com/in/suman-gouda-61a9b838b/*
 
 ---
 
