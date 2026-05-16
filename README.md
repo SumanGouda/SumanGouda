@@ -110,10 +110,7 @@
   </a>
   <a href="https://github.com/SumanGouda/Mood2Movie">
     <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Mood2Movie&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/Predict-Car-Price">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Predict-Car-Price&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
+  </a> 
   <a href="https://github.com/SumanGouda/steamdb-scraper">
     <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=steamdb-scraper&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
   </a>
