@@ -138,13 +138,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=SumanGouda&show_icons=true&theme=radical&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="165"/>
+  
   <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs/?username=SumanGouda&layout=compact&theme=radical&hide_border=true&title_color=00d9ff&text_color=ffffff" height="165"/>
 </div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanGouda&theme=dark&border=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanGouda&theme=react-dark&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=false&border_color=00d9ff" />
 </div>
