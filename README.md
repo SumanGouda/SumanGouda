@@ -1,24 +1,155 @@
-# 💫 About Me:
-### 🧑‍💻 About Me<br>I’m a Python and Machine Learning enthusiast dedicated to building clean APIs and practical, data-driven applications. Currently, I'm bridging the gap between backend logic and user experience by mastering **FastAPI** and **Streamlit**. <br><br>- 🔭 **I’m currently working on:** End-to-end ML projects (API → UI → Deployment).<br>- 🌱 **I’m currently learning:** Docker and advanced UI/UX for developer tools.<br>- 🏎️ **Fun fact:** Huge Formula 1 fan and mountain explorer.<br>- ⚡ **Belief:** Code. Create. Improve. Repeat.
+# <div align="center">✨ Hey, I'm Suman Gouda ✨</div>
 
+<div align="center">
+  <a href="https://github.com/SumanGouda">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=ML+Engineer;Data+Scientist;Python+Developer;NIT+Rourkela;Always+Learning;Love+to+Travel+🌍" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suman-gouda-61a9b838b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.sumangouda@gmail.com) 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SumanGouda&color=00d9ff&style=flat-square" alt="Profile Views"/>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SumanGouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SumanGouda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanGouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SumanGouda&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://www.linkedin.com/in/suman-gouda-61a9b838b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mr.sumangouda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SumanGouda">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SumanGouda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <div align="center">🧩 Tech Stack 🧩</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+        <br>GitHub
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
+        <br>Selenium
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="48" height="48" />
+        <br>Sklearn
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="48" height="48" />
+        <br>Keras
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="Pandas" width="48" height="48" />
+        <br>Pandas
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <div align="center">🔭 Projects 🔭</div>
+
+<div align="center">
+  <a href="https://github.com/SumanGouda/Mood2Movie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanGouda&repo=Mood2Movie&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/Car-Price-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanGouda&repo=Car-Price-Prediction&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/SteamDB-Scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanGouda&repo=SteamDB-Scraper&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/F1-Simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanGouda&repo=F1-Simulation&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/Library-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanGouda&repo=Library-Management&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/Carbon-Ceramic-Composition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanGouda&repo=Carbon-Ceramic-Composition&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+</div>
+
+---
+
+## <div align="center">📊 GitHub Stats 📊</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SumanGouda&show_icons=true&theme=dark&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanGouda&layout=compact&theme=dark&border_color=00d9ff&title_color=00d9ff&text_color=ffffff" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanGouda&theme=dark&border=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanGouda&theme=react-dark&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=false&border_color=00d9ff" />
+</div>
+
+---
+
+## <div align="center">🌍 About Me 🌍</div>
+
+<div align="center">
+
+```python
+suman = {
+    "college"   : "NIT Rourkela, India",
+    "role"      : "ML Engineer",
+    "passion"   : ["Machine Learning", "Data Science", "Travelling"],
+    "currently" : "Building Mood2Movie — a mood based movie recommender",
+    "fun_fact"  : "I debug better after a long trip 🏔️",
+    "dream"     : "Visit every country while shipping ML projects 🌏"
+}
+```
+
+</div>
+
+---
+
+## <div align="center">✍️ Random Dev Quote</div>
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer&fontColor=ffffff" />
+</div>
