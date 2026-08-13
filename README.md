@@ -98,6 +98,20 @@
         <br>Git
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
+        <br>OpenCV
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=48&animation=shake" alt="TensorFlow" width="48" height="48" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/FastF1-E10600?style=flat-square&logo=python&logoColor=white" width="80" height="48" />
+        <br>Fast F1
+      </td>
+    </tr>
   </table>
 </div>
  
