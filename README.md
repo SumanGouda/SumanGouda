@@ -26,9 +26,14 @@
   </a>
 </div>
 
+<br>
+
 ---
 
-## <div align="center">🧩 Tech Stack 🧩</div>
+<div align="center">
+  <img alt="Tech Stack" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=Tech%20Stack&fontSize=24&fontColor=00d9ff&stroke=00d9ff&strokeWidth=2" />
+</div>
+
 
 <div align="center">
   <table>
@@ -114,57 +119,57 @@
     </tr>
   </table>
 </div>
- 
+
+<br>
+
 ---
-## <div align="center">🔭 Current Projects 🔭</div>
-
 <div align="center">
-  <a href="https://github.com/SumanGouda/Predict-Car-Price">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Predict-Car-Price&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/Mood2Movie">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Mood2Movie&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a> 
-  <a href="https://github.com/SumanGouda/steamdb-scraper">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=steamdb-scraper&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/NUMPY-MODULE">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=NUMPY-MODULE&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/F1-Simulation">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=F1-Simulation&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/Library-Management-System-Fast-API">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Library-Management-System-Fast-API&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/Heart-Disease-Prediction">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Heart-Disease-Prediction&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-  <a href="https://github.com/SumanGouda/Carbon-Ceramic-Composite-Property-Prediction-Framework">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Carbon-Ceramic-Composite-Property-Prediction-Framework&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
-  </a>
-</div> 
- 
-## <div align="center">📊 GitHub Stats 📊</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=SumanGouda&show_icons=true&theme=radical&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="165"/>
-  
-  <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs/?username=SumanGouda&layout=compact&theme=radical&hide_border=true&title_color=00d9ff&text_color=ffffff" height="165"/>
+  <img alt="Current Projects" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=Current%20Projects&fontSize=24&fontColor=00d9ff&stroke=00d9ff&strokeWidth=2" />
 </div>
 <br>
+
+<div align="center">
+  <a href="https://github.com/SumanGouda/predict-used-car-features">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=predict-used-car-features&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/mobile-addiction-onnx">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=mobile-addiction-onnx&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/GestureControl">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=GestureControl&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a>
+  <a href="https://github.com/SumanGouda/Sudoku-Solver">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=SumanGouda&repo=Sudoku-Solver&theme=radical&hide_border=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" />
+  </a> 
+  
+</div> 
+<br/>
+
+---
+
+<div align="center">
+  <img alt="GitHub Stats" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=GitHub%20Stats&fontSize=24&fontColor=00d9ff&stroke=00d9ff&strokeWidth=2" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=SumanGouda&show_icons=true&theme=radical&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs/?username=SumanGouda&layout=compact&theme=radical&hide_border=true&title_color=00d9ff&text_color=ffffff" height="165"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanGouda&theme=dark&border=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 </div>
+
 <br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanGouda&theme=react-dark&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=false&border_color=00d9ff" />
-</div>
 
 ---
 
-## <div align="center">🌍 About Me 🌍</div>
+<div align="center">
+  <img alt="About Me" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=About%20Me&fontSize=24&fontColor=00d9ff&stroke=00d9ff&strokeWidth=2" />
+</div>
 
 <div align="center">
 
@@ -175,27 +180,27 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="left" width="400">
+      <td align="left" width="500">
 
 ```python
 suman = {
-  "name"      : "Suman Gouda",
-  "college"   : "NIT Rourkela 🎓",
-  "role"      : "ML Engineer 🤖",
-  "passion"   : [
-      "Machine Learning",
-      "Data Science", 
-      "Travelling 🌍"
+  "name"    : "Suman Gouda",
+  "passion" : [
+    "Exploring Technology",
+    "Data Science",
+    "Travelling 🌍"
   ],
-  "currently" : "Building Mood2Movie",
-  "fun_fact"  : "I debug better after a long trip 🏔️",
-  "dream"     : "Travel while shipping ML projects 🌏",
-  "open_to"   : "Collaborations & Internships"
+  "now"     : "Car price ML system",
+  "fun"     : "Debug better post-trip 🏔️",
+  "dream"   : "Ship ML, see the world 🌏",
+  "fan_of"  : "F1 & fast cars 🏎️",
+  "open_to" : "Collabs & Internships"
 }
 ```
+
 </td>
-      <td align="center" width="300">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+      <td align="center" width="400">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
       </td>
     </tr>
   </table>
@@ -203,7 +208,11 @@ suman = {
 
 ---
 
-## <div align="center">✍️ Random Dev Quote</div>
+<div align="center">
+  <img alt="Random Dev Quote" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=header&text=Random%20Dev%20Quote&fontSize=24&fontColor=00d9ff&stroke=00d9ff&strokeWidth=2&animation=fadeIn" />
+</div>
+
+<br>
 
 <div align="center">
 
